@@ -1,0 +1,5 @@
+c:\users\danilo\documents\visual studio 2015\Projects\PushNotification\PushNotification\bin\Debug\PushNotification.exe.config
+c:\users\danilo\documents\visual studio 2015\Projects\PushNotification\PushNotification\bin\Debug\PushNotification.exe
+c:\users\danilo\documents\visual studio 2015\Projects\PushNotification\PushNotification\bin\Debug\PushNotification.pdb
+c:\users\danilo\documents\visual studio 2015\Projects\PushNotification\PushNotification\obj\Debug\PushNotification.exe
+c:\users\danilo\documents\visual studio 2015\Projects\PushNotification\PushNotification\obj\Debug\PushNotification.pdb
